@@ -14,6 +14,4 @@ def my_each(array)
 
 end
 
-
-
-0
+my_each
