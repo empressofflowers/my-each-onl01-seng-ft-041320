@@ -10,7 +10,7 @@ def my_each(array)
         n = n + 1
       end
     else  
-      array
+      array.collection
     end
 end
 
