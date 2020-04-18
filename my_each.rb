@@ -13,7 +13,7 @@ def my_each(array)
 
     array
   else
-    return array
+    array
   end
 end
 
