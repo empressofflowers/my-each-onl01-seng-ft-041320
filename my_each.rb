@@ -4,12 +4,13 @@ require 'pry'
 
 def my_each(array)
 
-  array = []
+  n = 0
 
-  while array = 0 do
-    p
+  while array < array.length
+    yield (array[n])
+    next
   end
-  yield
+
 
 end
 
