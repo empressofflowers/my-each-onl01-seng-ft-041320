@@ -8,7 +8,7 @@ def my_each(array)
 
   while array < array.length
     yield (array[n])
-    next
+    n.next
   end
 
 
