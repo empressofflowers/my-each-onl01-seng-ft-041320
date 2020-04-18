@@ -9,8 +9,9 @@ def my_each(array)
         yield (array[n])
         n = n + 1
       end
-
+    else  
       array
+    end
 end
 
 #my_each(array)
